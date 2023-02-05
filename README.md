@@ -12,4 +12,4 @@ Classic Game Of Simon Says
 
 3. Enjoy
 
-https://img.shields.io/github/last-commit/Lluvias11/Simon
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Lluvias11/Simon">
