@@ -10,5 +10,6 @@ Classic Game Of Simon Says
 
 2. Open with any browser
 
-3.Enjoy
+3. Enjoy
 
+https://img.shields.io/github/last-commit/Lluvias11/Simon
